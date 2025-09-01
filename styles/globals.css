@@ -4,4 +4,5 @@
 
 body {
   font-family: sans-serif;
+  @apply bg-gradient-to-b from-blue-700 to-blue-500 text-white;
 }
